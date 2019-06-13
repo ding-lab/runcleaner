@@ -1,9 +1,8 @@
-# runcleaner
+# runcleaner by Song Cao #
 
 ## clean somaticwrapper and germlinewrapper run
 ## implementation of  gzipping large pindel files ##
 
-## Song Cao #
 
 ## Usage: perl runcleaner.pl  --rdir --log --t --q 
 
