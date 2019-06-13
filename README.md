@@ -1,6 +1,8 @@
 # runcleaner
 
 ## clean somaticwrapper and germlinewrapper run
+## implementation of  gzipping large pindel files ##
+
 ## Song Cao #
 
 ## Usage: perl runcleaner.pl  --rdir --log --t --q 
@@ -11,6 +13,5 @@
 <type> = somatic or germline
 <q> which queue for submitting job; research-hpc, ding-lab, long (default)
 
-## implement gzip large pindel files ##
 
 
