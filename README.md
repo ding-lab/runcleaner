@@ -1,9 +1,9 @@
-## runcleaner
+# runcleaner
 
-# clean somaticwrapper and germlinewrapper run
-# Song Cao #
+## clean somaticwrapper and germlinewrapper run
+## Song Cao #
 
-# Usage: perl runcleaner.pl  --rdir --log --t --q 
+## Usage: perl runcleaner.pl  --rdir --log --t --q 
 
 
 <rdir> = full path of the folder holding files for this sequence run (user must provide)
