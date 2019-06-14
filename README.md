@@ -1,14 +1,13 @@
 # runcleaner
 
-by Song Cao 
+by Song Cao, Jun 14, 2019
 
-## clean somaticwrapper and germlinewrapper run
+## Clean somaticwrapper and germlinewrapper run
 
-## implementation of  gzipping large pindel files ##
-
-
+## The implementation of gzipping large pindel files ##
+ 
+ 
 ## Usage: perl runcleaner.pl  --rdir --log --t --q 
-
 
 rdir = full path of the folder holding files for this sequence run (user must provide)
 
